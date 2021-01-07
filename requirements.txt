@@ -34,7 +34,7 @@ future==0.16.0
 fuzzywuzzy==0.16.0
 idna==2.7
 itsdangerous==0.24
-lxml==4.2.4
+lxml==4.6.2
 passlib==1.7.1
 pip==18.0
 gunicorn==19.9.0
